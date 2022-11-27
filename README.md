@@ -6,7 +6,7 @@ In the Life Expectancy application, the user can provide the demographic as well
 
 
 ### 🔑Go to - 
-- [Detailed Documentation](https://github.com/mahaveer-rulaniya/healthify-agriTech/wiki)
+- [Detailed Documentation](https://heyzine.com/flip-book/1a34b8c4bf.html)
 
 ## 📡Technologies to be used 
 1. Machine learning
